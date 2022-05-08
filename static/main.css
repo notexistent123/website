@@ -13,3 +13,13 @@
     from { width: 0; }
 
 }
+
+.intro {
+
+  font-family: "Courier New", monospace;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100em;
+  animation: type 4s steps(60, end); 
+}
