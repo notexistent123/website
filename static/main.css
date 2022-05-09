@@ -5,6 +5,7 @@
   overflow: hidden;
   width: 30em;
   animation: type 2s steps(60, end); 
+  color: white
 
 }
 
@@ -22,4 +23,130 @@
   overflow: hidden;
   width: 100em;
   animation: type 4s steps(60, end); 
+  color: white
+}
+
+.centered {
+
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center
+
+}
+
+.youtube{
+
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  position: absolute;
+  border-radius: 10%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-youtube{
+
+  background: red;
+  color: white;
+
+}
+
+.fa-twitch{
+
+  background: purple;
+  color: white;
+
+}
+
+.fa-github{
+
+  background: white;
+  color: black;
+
+}
+
+.fa-twitter{
+
+  background: lightskyblue;
+  color: white
+
+}
+
+.fade-in {
+  animation: fadeIn ease 2s;
+  -webkit-animation: fadeIn ease 2s;
+  -moz-animation: fadeIn ease 2s;
+  -o-animation: fadeIn ease 2s;
+  -ms-animation: fadeIn ease 2s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+}
+}
+
+.buttons{
+
+  position:absolute;
+   left: 50px;
+   top: 150px;
+   width:100px;
+   height:50%;
+
 }
