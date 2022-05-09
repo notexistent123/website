@@ -18,11 +18,7 @@
 	})
 </script>
 <div data-aos="fade-up">
-	<p class="intro">Hello, I am Alphons. I am a student, and I make random stuff that comes into my head. This is me.</p>
-</div>
-
-<div data-aos="slide-left">
-	<p class="intro">As you can see, this page is very experimental</p>
+	<p class="intro">Hello, I am Alphons. I am a student, and I make random stuff that comes into my head.</p>
 </div>
 <div style="height: 50px" />
 
