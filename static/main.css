@@ -150,3 +150,5 @@
    height:50%;
 
 }
+
+body {overflow-x: hidden}
