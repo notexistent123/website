@@ -49,12 +49,12 @@
 	<a href="https://twitter.com/crazypersonalph/" class="fa fa-twitter" target="_blank"></a>
 
 </div>
-<span data-aos="fade-up" class="centered">
+<span class="centered">
 <img alt="Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=crazypersonalph&show_icons=true&theme=dark"/>
 </span>
 <br>
 <br>
-<span data-aos="fade-down" class="centered">
+<span class="centered">
 <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazypersonalph&layout=compact&theme=dark"/>
 </span>
 
