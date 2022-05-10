@@ -22,7 +22,7 @@
 </div>
 <div style="height: 50px" />
 
-<div class="buttons">
+<div class="buttons-left">
 
 	<a href="https://www.youtube.com/channel/UCIlocJq8KbkAsxl1Rw2G-LQ" class="fa fa-youtube" target="_blank"></a>
 	<br>
@@ -43,6 +43,12 @@
 	<br>
 	<br>
 	<a href="https://twitter.com/crazypersonalph/" class="fa fa-twitter" target="_blank"></a>
+
+</div>
+
+<div class="buttons-right">
+
+	<a href="/support" class="fa fa-solid fa-hand-holding-dollar" target="_blank"></a>
 
 </div>
 <span class="centered">

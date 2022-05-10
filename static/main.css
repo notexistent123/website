@@ -1,5 +1,5 @@
 .title { 
-  font-family: "Courier New", monospace;
+  font-family: 'Roboto Mono', monospace;
   margin: 10px 0 0 10px;
   white-space: nowrap;
   overflow: hidden;
@@ -17,7 +17,7 @@
 
 .intro {
 
-  font-family: "Courier New", monospace;
+  font-family: 'Roboto Mono', monospace;
   margin: 10px 0 0 10px;
   white-space: nowrap;
   overflow: hidden;
@@ -141,7 +141,7 @@
 }
 }
 
-.buttons{
+.buttons-left{
 
   position:absolute;
    left: 50px;
@@ -151,4 +151,27 @@
 
 }
 
+.buttons-right{
+
+  position:absolute;
+   left: 1000px;
+   top: 110px;
+   width:100px;
+   height:50%;
+
+}
+
 body {overflow-x: hidden}
+
+.support{
+
+  background-color: orange;
+  color: white;
+
+}
+
+.fa-hand-holding-dollar{
+
+  
+
+}
