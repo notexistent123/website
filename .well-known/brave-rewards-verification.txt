@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: helpmepls.netlify.app
-Token: 1b706979d2a2c47ab1f117ccb89616bc9a9eb9cbdfe097b16b124dbe9643215b
